@@ -1,5 +1,5 @@
 # Daily Planner
-![Screen Shot 2022-02-17 at 5 51 56 PM](https://user-images.githubusercontent.com/93888416/154584741-907d77b9-019b-4a5b-85e3-185331abe1a6.png)
+<img width="1512" alt="Screen Shot 2022-03-03 at 10 16 56 PM" src="https://user-images.githubusercontent.com/93888416/156692681-b49fed7b-34dc-4409-a9f8-002b2517e441.png">
 
 ## Purpose
 Help people organize their day
@@ -13,6 +13,6 @@ Help people organize their day
 * Moment.js
 
 ## Website
-https://jayford45.github.io/Daily-planner/
+https://jayford45.github.io/daily-planner/
 
 ## Made by Jay Ford
